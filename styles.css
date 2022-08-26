@@ -1,0 +1,84 @@
+.fondo{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+#fondofinal1 {
+    background-color:#D68910;
+    height: 550px;
+    width: 350px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  }
+  #fondofinal2 {
+    background-color:#0E6367;
+    height: 550px;
+    width: 350px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+#fondofinal3 {
+  background-color: #093e35;
+  height: 550px;
+  width: 350px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.boton1 {
+  margin-top: 155px;
+  margin-left: 50px;
+  height: 50px;
+  width: 180px;
+  border-radius: 30px;
+  color: #D68910;
+  font-size: 17px
+
+}
+.boton2 {
+  margin-top: 155px;
+  margin-left: 50px;
+  height: 50px;
+  width: 180px;
+  border-radius: 30px;
+  color: #0E6367;
+  font-size: 17px
+}
+.boton3 {
+  margin-top: 155px;
+  margin-left: 50px;
+  height: 50px;
+  width: 180px;
+  border-radius: 30px;
+  color: #093e35;
+  font-size: 17px;
+}
+.letras {
+  color: rgba(234, 225, 225, 0.838);
+  height: 130px;
+  padding-top: 45px;
+  font-size: large;
+}
+.letras1 {
+  margin-top: 33px;
+  color: white;
+  font-size: 40px;
+}
+#icono1 {
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+#icono2 {
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+#icono3 {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.texto {
+  margin-left: 50px;
+  height: 170px;
+  width: 244px;
+}
